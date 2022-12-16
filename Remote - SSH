@@ -1,0 +1,13 @@
+#!/bin/bash
+
+file1="help1.txt"
+file2="help2.txt"
+file3="help3.txt"
+file4="help4.txt"
+file5="help5.txt"
+files=("dir1.txt" "dir2.txt" "dir3.txt" "dir4.txt" "dir5.txt")
+touch ${files[0]}/text.txt
+touch ${files[1]}/text.txt
+touch ${files[2]}/text.txt
+touch ${files[3]}/text.txt
+touch ${files[4]}/text.txt
