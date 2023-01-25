@@ -1,6 +1,9 @@
 # repos1
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d585a2dceaafc20119d7e45390872faa18349696
     What is this repo all about?
     To help us be more comfortable with coding.
     Why are you learning these skills?
