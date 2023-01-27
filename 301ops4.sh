@@ -25,3 +25,7 @@ elif [ $a = 3 ]
 else [ $a = 4 ]
 exit
 fi
+
+echo "do you want to go again?"
+read e
+done
